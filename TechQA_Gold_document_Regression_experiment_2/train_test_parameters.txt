@@ -1,0 +1,3 @@
+python train.py --data-type Quora --batch-size 4 --max-sent-len 128 --learning-rate=0.0005 --epoch 60 --hidden-size 128 
+
+python test.py --data-type Quora --batch-size 4 --max-sent-len 128 --learning-rate=0.0005 --epoch 60 --hidden-size 128
