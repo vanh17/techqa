@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/net/kate/storage/work/vnhh/TechQA/TS/CluProcessor/firstscala/src/main/scala/edu/arizona/cs/FirstScala.scala:9:20: not found: type CluProcessor[0m
+[0m[[0m[31merror[0m] [0m[0m    val proc = new CluProcessor()//FastNLPProcessor()[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
